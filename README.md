@@ -10,7 +10,7 @@ This project analyses bank loan data to evaluate the performance of lending oper
 | **loan.sql** | SQL queries used to fetch & calculate required metrics |
 | **financial_loan.xlsx** | Source dataset used for analysis |
 | **loan_project.pbix** | Power BI file containing the dashboards |
-| **Domain Knowledge and Terminology** | Addition knowledge you need
+| **Domain Knowledge and Terminology** | Additionl knowledge you need
 | **Report** | Overall gist of all this effort |
 
 ## Dashboards in Power BI
