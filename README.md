@@ -38,3 +38,5 @@ The `.pbix` file contains **3 dashboards**:
 ## Objective of the Project
 
 To track loan portfolio performance, identify trends, evaluate borrower quality, and support data-driven lending decisions.
+
+Note : Since the dashboard is not deployed, you can see the images uploaded in the repository named - Sample1, sample2 and Sample3. Tank you.....
